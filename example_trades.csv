@@ -1,0 +1,3 @@
+date,symbol,side,qty,entry,exit,fees,type,notes,day_trade
+2026-09-22,SOFI,long,2,0.50,0.11,0,option,"stopped out, cut fast",1
+2026-09-18,INTC,long,1,60.10,61.25,0,equity,"swing, held overnight",0
